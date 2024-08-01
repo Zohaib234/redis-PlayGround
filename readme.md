@@ -21,6 +21,6 @@ This is a simple Express.js application that demonstrates how to use Redis to ca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/express-redis-cache.git
-   cd express-redis-cache
+   git clone https://github.com/Zohaib234/redis-PlayGround
+   cd redis-PlayGround
    ```
