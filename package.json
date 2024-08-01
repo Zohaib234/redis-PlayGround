@@ -1,0 +1,20 @@
+{
+  "name": "redis-playground",
+  "version": "1.0.0",
+  "description": "this code contain the basic implementation of redis inside node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "redis": "^4.6.15"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
