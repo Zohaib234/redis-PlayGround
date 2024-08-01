@@ -15,7 +15,7 @@ This project demonstrates CRUD operations using Redis and MongoDB in a Node.js E
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/redis-PlayGround.git
+    git clone https://github.com/Zohaib234/redis-PlayGround.git
     cd redis-PlayGround
     ```
 
